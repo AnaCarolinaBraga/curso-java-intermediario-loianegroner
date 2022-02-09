@@ -2,6 +2,6 @@
 
 - [x] Aula 57 - Wrappers: classes de tipos primitivos
 - [x] Aula 58 - Autoboxing e Unboxing
-- [ ] Aula 59 - Importação estática (static import)
+- [x] Aula 59 - Importação estática (static import)
 - [ ] Aula 60 -  
 - [ ] 
