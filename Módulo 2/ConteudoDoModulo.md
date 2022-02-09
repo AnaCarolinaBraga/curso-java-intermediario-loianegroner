@@ -3,5 +3,5 @@
 - [x] Aula 57 - Wrappers: classes de tipos primitivos
 - [x] Aula 58 - Autoboxing e Unboxing
 - [x] Aula 59 - Importação estática (static import)
-- [ ] Aula 60 -  
+- [ ] Aula 60 - Escopo de Variáveis
 - [ ] 
