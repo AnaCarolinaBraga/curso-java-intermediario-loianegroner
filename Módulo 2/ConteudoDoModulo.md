@@ -7,5 +7,5 @@
 - [x] Aula 61 - Passagem de parâmetros por valor e por referência
 - [x] Aula 62 - Varargs
 - [x] Aula 63 - printf
-- [ ] Aula 64 - Classes aninhadas: internas, locais e anônimas
-- [ ] Aula 65 - 
+- [x] Aula 64 - Classes aninhadas: internas, locais e anônimas
+- [ ] Aula 65 - Annotations (anotações)
