@@ -4,4 +4,7 @@
 - [x] Aula 58 - Autoboxing e Unboxing
 - [x] Aula 59 - Importação estática (static import)
 - [x] Aula 60 - Escopo de Variáveis
-- [ ] Aula 61 - Passagem de parâmetros por valor e por referência
+- [x] Aula 61 - Passagem de parâmetros por valor e por referência
+- [ ] Aula 62 - Varargs
+- [ ] Aula 63 -
+- [ ] Aula 64 -
