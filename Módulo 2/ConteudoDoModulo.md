@@ -5,6 +5,6 @@
 - [x] Aula 59 - Importação estática (static import)
 - [x] Aula 60 - Escopo de Variáveis
 - [x] Aula 61 - Passagem de parâmetros por valor e por referência
-- [ ] Aula 62 - Varargs
-- [ ] Aula 63 -
+- [x] Aula 62 - Varargs
+- [ ] Aula 63 - printf
 - [ ] Aula 64 -
