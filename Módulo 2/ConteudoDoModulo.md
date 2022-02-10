@@ -9,4 +9,4 @@
 - [x] Aula 63 - printf
 - [x] Aula 64 - Classes aninhadas: internas, locais e anônimas
 - [x] Aula 65 - Annotations (anotações)
-- [ ] Aula 66 - Garbage Collector (Coletor de Lixo)
+- [x] Aula 66 - Garbage Collector (Coletor de Lixo)
