@@ -6,5 +6,6 @@
 - [x] Aula 60 - Escopo de Variáveis
 - [x] Aula 61 - Passagem de parâmetros por valor e por referência
 - [x] Aula 62 - Varargs
-- [ ] Aula 63 - printf
-- [ ] Aula 64 -
+- [x] Aula 63 - printf
+- [ ] Aula 64 - Classes aninhadas: internas, locais e anônimas
+- [ ] Aula 65 - 
