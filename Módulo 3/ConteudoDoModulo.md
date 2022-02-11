@@ -2,6 +2,6 @@
 
 - [x] Aula 67 - Criando Threads + métodos start, run e sleep
 - [x] Aula 68 - Threads: Interface Runnable
-- [ ] Aula 69 - Criando várias Threads + métodos isAlive e join
-- [ ] Aula 70 -
+- [x] Aula 69 - Criando várias Threads + métodos isAlive e join
+- [ ] Aula 70 - Threads: Definindo prioridades
 - [ ] Aula 71 -
