@@ -4,8 +4,8 @@
 - [x] Aula 68 - Threads: Interface Runnable
 - [x] Aula 69 - Criando várias Threads + métodos isAlive e join
 - [x] Aula 70 - Threads: Definindo prioridades
-- [ ] Aula 71 - Threads: métodos e blocos sincronizados (synchronized)
-- [ ] Aula 72 -
+- [x] Aula 71 - Threads: métodos e blocos sincronizados (synchronized)
+- [ ] Aula 72 - Threads: notify, wait e notifyAll
 - [ ] Aula 73 -
 - [ ] Aula 74 -
 - [ ] Aula 75 -
