@@ -8,4 +8,4 @@
 - [x] Aula 72 - Threads: notify, wait e notifyAll
 - [x] Aula 73 - Threads: resume, suspend e stop
 - [x] Aula 74 - Threads: deadlocks
-- [ ] Exercício aula 74 - Semáfaro com Threads 
+- [x] Exercício aula 74 - Semáforo com Threads 
