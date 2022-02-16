@@ -8,4 +8,5 @@
 - [x] Aula 80 - String: modificando uma String (substring, concat, replace, trim
 - [x] Aula 81 - String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
 - [x] Aula 82 - String: juntando e separando String (join, split)
-- [ ] Aula 83 - concatenação com StringBuilder e StringBuffer
+- [x] Aula 83 - concatenação com StringBuilder e StringBuffer
+- [ ] Aula 84 - String Tokenizer
