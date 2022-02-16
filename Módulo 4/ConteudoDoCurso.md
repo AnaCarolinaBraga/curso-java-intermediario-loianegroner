@@ -3,5 +3,5 @@
 - [x] Aula 75 - String: construtores
 - [x] Aula 76 - String: concatenação
 - [x] Aula 77 - String: extraindo chars (charAt, getChars, getBytes, toCharArray)
-- [ ] Aula 78 - String: equalsIgnoreCase, regionMatches, startsWith, endsWith, compareTo
-- [ ] Aula 79 - 
+- [x] Aula 78 - String: equalsIgnoreCase, regionMatches, startsWith, endsWith, compareTo
+- [ ] Aula 79 - String: fazendo buscas (indexOf, lastIndexOf, contains)
