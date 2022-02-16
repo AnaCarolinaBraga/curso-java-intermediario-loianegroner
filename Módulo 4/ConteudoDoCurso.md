@@ -7,4 +7,5 @@
 - [x] Aula 79 - String: fazendo buscas (indexOf, lastIndexOf, contains)
 - [x] Aula 80 - String: modificando uma String (substring, concat, replace, trim
 - [x] Aula 81 - String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
-- [ ] Aula 82 - String: juntando e separando String (join, split)
+- [x] Aula 82 - String: juntando e separando String (join, split)
+- [ ] Aula 83 - concatenação com StringBuilder e StringBuffer
