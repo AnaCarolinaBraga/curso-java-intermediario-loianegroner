@@ -4,4 +4,5 @@
 - [x] Aula 76 - String: concatenação
 - [x] Aula 77 - String: extraindo chars (charAt, getChars, getBytes, toCharArray)
 - [x] Aula 78 - String: equalsIgnoreCase, regionMatches, startsWith, endsWith, compareTo
-- [ ] Aula 79 - String: fazendo buscas (indexOf, lastIndexOf, contains)
+- [x] Aula 79 - String: fazendo buscas (indexOf, lastIndexOf, contains)
+- [ ] Aula 80 - String: modificando uma String (substring, concat, replace, trim
