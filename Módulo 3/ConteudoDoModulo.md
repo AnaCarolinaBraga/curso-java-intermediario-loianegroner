@@ -7,5 +7,5 @@
 - [x] Aula 71 - Threads: métodos e blocos sincronizados (synchronized)
 - [x] Aula 72 - Threads: notify, wait e notifyAll
 - [x] Aula 73 - Threads: resume, suspend e stop
-- [ ] Aula 74 - Threads: deadlocks
-- [ ] Aula 75 -
+- [x] Aula 74 - Threads: deadlocks
+- [ ] Exercício aula 74 - Semáfaro com Threads 
