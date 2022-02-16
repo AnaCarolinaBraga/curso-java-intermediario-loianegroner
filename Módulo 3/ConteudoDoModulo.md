@@ -6,6 +6,6 @@
 - [x] Aula 70 - Threads: Definindo prioridades
 - [x] Aula 71 - Threads: métodos e blocos sincronizados (synchronized)
 - [x] Aula 72 - Threads: notify, wait e notifyAll
-- [ ] Aula 73 - Threads: resume, suspend e stop
-- [ ] Aula 74 -
+- [x] Aula 73 - Threads: resume, suspend e stop
+- [ ] Aula 74 - Threads: deadlocks
 - [ ] Aula 75 -
