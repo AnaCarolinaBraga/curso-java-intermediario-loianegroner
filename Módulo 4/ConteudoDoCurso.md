@@ -9,4 +9,4 @@
 - [x] Aula 81 - String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
 - [x] Aula 82 - String: juntando e separando String (join, split)
 - [x] Aula 83 - concatenação com StringBuilder e StringBuffer
-- [ ] Aula 84 - String Tokenizer
+- [x] Aula 84 - String Tokenizer
